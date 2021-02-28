@@ -1,0 +1,47 @@
+AGREEMENT OF USAGE
+
+1. Non-commercial use, research, and open source
+
+Any non-commercial use of the dataset for research and open-sourced projects is encouraged and free of charge. Please cite our technical report for reference.
+
+If you want to perpetuate your models trained on our dataset and share them to the research community in Thailand, please send your models, code, and APIs to the AI for Thai Project. Please contact Dr. Thepchai Supnithi via thepchai@nectec.or.th for more information.
+
+Note that modification and redistribution of the dataset by any means are strictly prohibited unless authorized by the corpus authors.
+
+2. Commercial use
+
+In any commercial use of the dataset, there are two options.
+
+- Option 1 (in kind): Contributing a dataset of 50,000 words completely annotated with our annotation scheme within 1 year. Your data will also be shared and recognized as a dataset co-creator in the research community in Thailand.
+
+- Option 2 (in cash): Purchasing a lifetime license for the entire dataset is required. The purchased rights of use cover only this dataset.
+
+In both options, please contact Dr. Thepchai Supnithi via thepchai@nectec.or.th for more information.
+
+
+----------
+
+ข้อตกลงการใช้งานคลังข้อมูล
+
+1. การใช้งานที่ไม่ใช่เชิงพาณิชย์ การใช้ในงานวิจัย และโครงการที่เปิดซอร์สโค้ด
+
+ผู้ใช้สามารถนำคลังข้อมูลนี้ไปใช้ในการใช้งานที่ไม่ใช่พาณิชย์ การวิจัย และโครงการที่เปิดซอร์สโค้ด ได้โดยไม่คิดมูลค่า อย่างไรก็ตามหากท่านใช้คลังข้อมูลนี้ โปรดอ้างอิงรายงานเชิงเทคนิคของเราเพื่อเป็นข้อมูลบรรณานุกรมต่อไป
+
+หากท่านต้องการเก็บรักษาโมเดลที่เทรนบนคลังข้อมูลชุดนี้ และเผยแพร่กับชุมชนวิจัยในประเทศไทย โปรดส่งโมเดล โค้ด และ APIs มายังโครงการ AI for Thai ได้ โดยติดต่อ ดร. เทพชัย ทรัพย์นิธิ ผ่านทางอีเมล์ thepchai@nectec.or.th
+
+ทั้งนี้ห้ามผู้ใช้ทำซ้ำหรือแก้ไขส่วนหนึ่งส่วนใดของคลังข้อมูลชุดนี้ นอกจากจะได้รับอนุญาตจากเจ้าของข้อมูล
+
+2. การใช้งานคลังข้อมูลในเชิงพาณิชย์
+
+ในการที่จะใช้งานคลังข้อมูลนี้ในเชิงพาณิชย์ ผู้ใช้จะต้องเลือกทำตามเงื่อนไขหนึ่งในสองข้อต่อไปนี้
+
+- ทางเลือกที่ 1: ผู้ใช้เลือกที่จะสร้างคลังข้อมูลขนาด 50,000 คำ ซึ่งกำกับข้อมูลทางภาษาศาสตร์ให้ครบถ้วนตามคู่มือการกำกับข้อมูลที่แนบมา แล้วนำมาเผยแพร่ในชุมชนวิจัยในประเทศไทย โดยผู้ใช้จะได้รับการยกย่องในฐานะของผู้ร่วมสร้างคลังข้อมูลด้วย
+
+- ทางเลือกที่ 2: ผู้ใช้เลือกที่ซื้อไลเซนส์สำหรับสิทธิ์ในการใช้คลังข้อมูลนี้ โดยมีระยะเวลาการใช้งานตลอดชีวิต ทั้งนี้สิทธิ์การใช้งานจะครอบคลุมเฉพาะคลังข้อมูลนี้เท่านั้น
+
+ทั้งนี้โปรดติดต่อ ดร. เทพชัย ทรัพย์นิธิ ผ่านทางอีเมล์ thepchai@nectec.or.th เพื่อรับทราบข้อมูลเพิ่มเติม
+
+
+----------
+
+ALL LINGUISTIC DATABASES ARE PROVIDED “AS IS” AND NEITHER LANGUAGE AND SEMANTIC TECHNOLOGY LABORATORY UNDER NATIONAL ELECTRONICS AND COMPUTER TECHNOLOGY CENTER (NECTEC), THAILAND, NOR ITS CORPUS AUTHORS WARRANT THE ACCURACY, COMPLETENESS, CURRENTNESS, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE LINGUISTIC DATABASES. IN NO EVENT WILL LANGUAGE AND SEMANTIC TECHNOLOGY LABORATORY UNDER NATIONAL ELECTRONICS AND COMPUTER TECHNOLOGY CENTER (NECTEC), THAILAND, AND ITS CORPUS AUTHORS BE LIABLE FOR ANY LOSS OR INJURY CAUSED IN WHOLE OR IN PART BY ITS NEGLIGENCE OR CONTINGENCIES BEYOND ITS CONTROL IN PROCURING, COMPILING, INTERPRETING, EDITING, WRITING, REPORTING OR DELIVERING THE LINGUISTIC DATABASES, OR FOR ANY ERRORS, OMISSIONS OR INACCURACIES IN THE LINGUISTIC DATABASES, REGARDLESS OF HOW CAUSED. IN NO EVENT WILL LANGUAGE AND SEMANTIC TECHNOLOGY LABORATORY UNDER NATIONAL ELECTRONICS AND COMPUTER TECHNOLOGY CENTER (NECTEC), THAILAND, AND ITS CORPUS AUTHORS BE LIABLE TO USER, USER’S RESEARCH GROUP, OR TO ANY OTHER INDIVIDUAL OR ORGANIZATION FOR ANY DECISION MADE OR ACTION TAKEN IN RELIANCE UPON ANY PART OF THE LINGUISTIC DATABASES OR FOR ANY CONSEQUENTIAL, DIRECT, SPECIAL OR SIMILAR DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.

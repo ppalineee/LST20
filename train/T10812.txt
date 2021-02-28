@@ -1,0 +1,356 @@
+สุพรรณบุรี	NN	B_ORG	B_CLS
+_	PU	O	I_CLS
+เป็น	VV	O	I_CLS
+เจ้าภาพ	NN	O	I_CLS
+จัด	VV	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+กีฬาพลศึกษา	NN	O	I_CLS
+เกมส์	NN	O	I_CLS
+_	PU	O	I_CLS
+ครั้ง	CL	O	I_CLS
+ที่	PS	O	I_CLS
+_	PU	O	I_CLS
+34	NU	B_NUM	E_CLS
+
+จังหวัด	NN	B_LOC	B_CLS
+สุพรรณบุรี	NN	B_ORG	I_CLS
+_	PU	O	I_CLS
+เป็น	VV	O	I_CLS
+เจ้าภาพ	NN	O	I_CLS
+จัด	VV	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+กีฬา	NN	O	I_CLS
+สถาบันพลศึกษา	NN	B_ORG	I_CLS
+เกมส์	NN	O	I_CLS
+_	PU	O	I_CLS
+ครั้ง	CL	O	I_CLS
+ที่	PS	O	I_CLS
+_	PU	O	I_CLS
+34	NU	B_NUM	E_CLS
+_	PU	O	O
+โดย	CC	O	B_CLS
+นักกีฬา	NN	O	I_CLS
+จาก	PS	O	I_CLS
+_	PU	O	I_CLS
+สถาบันพลศึกษา	NN	B_ORG	I_CLS
+_	PU	O	I_CLS
+ทั้ง	PS	O	I_CLS
+_	PU	O	I_CLS
+17	NU	B_MEA	I_CLS
+_	PU	O	I_CLS
+วิทยาเขต	CL	B_MEA	I_CLS
+_	PU	O	I_CLS
+เข้า	AV	O	I_CLS
+ร่วม	VV	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	E_CLS
+
+รวม	VV	O	B_CLS
+ชนิด	NN	O	I_CLS
+กีฬา	NN	O	E_CLS
+ที่	CC	O	B_CLS
+เข้า	AV	O	I_CLS
+ร่วม	VV	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+มาก	VV	O	I_CLS
+ถึง	PS	O	I_CLS
+_	PU	O	I_CLS
+32	NU	B_MEA	I_CLS
+_	PU	O	I_CLS
+ชนิด	CL	B_MEA	I_CLS
+กีฬา	NN	O	I_CLS
+_	PU	O	I_CLS
+ระหว่าง	PS	B_DTM	I_CLS
+วันที่	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+26	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+มิถุนายน	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+ถึง	PS	I_DTM	I_CLS
+วันที่	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+5	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+กรกฎาคม	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+2552	NU	E_DTM	I_CLS
+_	PU	O	I_CLS
+ที่	PS	O	I_CLS
+สนามกีฬา	VV	O	I_CLS
+จังหวัดสุพรรณบุรี	NN	B_ORG	E_CLS
+
+นาย	NN	B_TTL	B_CLS
+สมศักย์	NN	B_PER	I_CLS
+_	PU	I_PER	I_CLS
+ภูรีศรีศักดิ์	NN	E_PER	I_CLS
+_	PU	O	I_CLS
+ผู้	FX	O	I_CLS
+ว่าราชการ	VV	O	I_CLS
+จังหวัด	NN	B_ORG	I_CLS
+สุพรรณบุรี	NN	E_ORG	I_CLS
+_	PU	O	I_CLS
+เปิดเผย	VV	O	I_CLS
+ว่า	CC	O	E_CLS
+_	PU	O	O
+การ	FX	O	B_CLS
+แข่งขัน	VV	O	I_CLS
+กีฬา	NN	O	I_CLS
+สถาบันพลศึกษา	NN	B_ORG	I_CLS
+เกมส์	NN	O	I_CLS
+_	PU	O	I_CLS
+คือ	VV	O	I_CLS
+_	PU	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+กีฬา	NN	O	I_CLS
+ของ	PS	O	I_CLS
+นิสิต	NN	O	I_CLS
+_	PU	O	I_CLS
+นักศึกษา	NN	O	I_CLS
+ของ	PS	O	I_CLS
+สถาบันพลศึกษา	NN	B_ORG	I_CLS
+_	PU	O	I_CLS
+ทั้ง	PS	O	I_CLS
+_	PU	O	I_CLS
+17	NU	B_MEA	I_CLS
+_	PU	O	I_CLS
+วิทยาเขต	CL	B_MEA	I_CLS
+_	PU	O	I_CLS
+ได้แก่	PS	O	E_CLS
+
+กระบี่	NN	B_ORG	B_CLS
+
+กรุงเทพ	NN	B_ORG	B_CLS
+
+ชุมพร	NN	B_LOC	B_CLS
+
+เชียงใหม่	NN	B_ORG	B_CLS
+
+ชลบุรี	NN	B_ORG	B_CLS
+
+ตรัง	NN	B_ORG	B_CLS
+
+เพชรบูรณ์	NN	B_ORG	B_CLS
+
+มหาสารคาม	NN	B_ORG	B_CLS
+
+ยะลา	NN	B_ORG	B_CLS
+_	PU	O	I_CLS
+ลำปาง	NN	B_ORG	E_CLS
+
+ศรีสะเกษ	NN	B_ORG	B_CLS
+
+สมุทรสาคร	NN	B_ORG	B_CLS
+
+สุโขทัย	NN	B_ORG	B_CLS
+
+สุพรรณบุรี	NN	B_ORG	B_CLS
+
+อ่างทอง	NN	B_ORG	B_CLS
+
+และ	PS	O	B_CLS
+อุดรธานี	NN	B_ORG	E_CLS
+
+ซึ่ง	CC	O	B_CLS
+มี	VV	O	I_CLS
+ชนิด	NN	O	I_CLS
+กีฬา	NN	O	I_CLS
+ใน	PS	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+ถึง	PS	O	I_CLS
+_	PU	O	I_CLS
+32	NU	B_MEA	I_CLS
+_	PU	O	I_CLS
+ชนิด	CL	B_MEA	I_CLS
+กีฬา	NN	O	I_CLS
+_	PU	O	I_CLS
+คือ	VV	O	E_CLS
+
+กรีฑา	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ฟุตบอล	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ฟุตซอล	NN	O	B_CLS
+,	PU	O	E_CLS
+
+บาสเกตบอล	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ลีลาศ	NN	O	B_CLS
+,	PU	O	E_CLS
+
+วอลเลย์บอล	NN	O	B_CLS
+ใน	PS	O	I_CLS
+ร่ม	NN	O	I_CLS
+,	PU	O	E_CLS
+
+วอลเล่ย์บอล	NN	O	B_CLS
+ชาย	NN	O	I_CLS
+หาด	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ตะกร้อ	NN	O	B_CLS
+ลอด	VV	O	I_CLS
+ห่วง	NN	O	I_CLS
+,	PU	O	E_CLS
+
+เซปัก	NN	O	B_CLS
+ตะกร้อ	NN	O	I_CLS
+,	PU	O	E_CLS
+
+มวย	NN	O	B_CLS
+สากล	NN	O	I_CLS
+สมัครเล่น	AJ	O	I_CLS
+,	PU	O	E_CLS
+
+มวย	NN	O	B_CLS
+ไทย	NN	B_LOC	I_CLS
+สมัครเล่น	AJ	O	I_CLS
+,	PU	O	E_CLS
+
+เปตอง	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ลอนเทนนิส	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ว่าย	VV	O	B_CLS
+น้ำ	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ยิมนาสติก	NN	O	B_CLS
+,	PU	O	E_CLS
+
+คาราเต้	NN	O	B_CLS
+_	PU	O	I_CLS
+โด	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ยก	VV	O	B_CLS
+น้ำหนัก	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ยูโด	NN	O	B_CLS
+,	PU	O	E_CLS
+
+มวย	NN	O	B_CLS
+ปล้ำ	VV	O	I_CLS
+,	PU	O	E_CLS
+
+แฮนด์	NN	O	B_CLS
+บอล	NN	O	I_CLS
+,	PU	O	E_CLS
+
+เทควันโด	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ปันจัก	NN	O	B_CLS
+สีลัต	NN	O	I_CLS
+,	PU	O	E_CLS
+
+กอล์ฟ	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ยิง	VV	O	B_CLS
+ปืน	NN	O	I_CLS
+,	PU	O	E_CLS
+
+เทเบิล	NN	O	B_CLS
+เทนนิส	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ยิงธนู	VV	O	B_CLS
+,	PU	O	E_CLS
+
+เนตบอล	NN	O	B_CLS
+,	PU	O	E_CLS
+
+แบดมินตัน	NN	O	B_CLS
+,	PU	O	E_CLS
+
+ดาบ	NN	O	B_CLS
+ไทย	NN	O	I_CLS
+,	PU	O	E_CLS
+
+รักบี้	NN	O	B_CLS
+ฟุตบอล	NN	O	I_CLS
+,	PU	O	E_CLS
+
+ฮอกกี้	NN	O	B_CLS
+,	PU	O	E_CLS
+
+และ	PS	O	B_CLS
+กระบี่	NN	B_ORG	I_CLS
+กระบอง	NN	O	E_CLS
+
+สำหรับ	PS	O	B_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+จะ	AX	O	I_CLS
+มี	VV	O	I_CLS
+ขึ้น	AV	O	I_CLS
+ในระหว่าง	PS	B_DTM	I_CLS
+วันที่	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+26	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+มิถุนายน	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+2552	NU	E_DTM	I_CLS
+_	PU	O	I_CLS
+ที่	PS	O	I_CLS
+จังหวัดสุพรรณบุรี	VV	O	E_CLS
+_	PU	O	O
+โดย	CC	O	B_CLS
+ใน	PS	O	I_CLS
+วันที่	NN	B_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+26	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+มิถุนายน	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+2552	NU	E_DTM	I_CLS
+_	PU	O	I_CLS
+จะ	AX	O	I_CLS
+มี	VV	O	I_CLS
+พิธี	NN	O	I_CLS
+เปิด	VV	O	I_CLS
+การ	FX	O	I_CLS
+แข่งขัน	VV	O	I_CLS
+อย่าง	FX	O	I_CLS
+เป็น	VV	O	I_CLS
+ทางการ	NN	O	E_CLS
+
+ถ่ายทอด	VV	O	B_CLS
+สด	VV	O	I_CLS
+พิธี	NN	O	I_CLS
+เปิด	VV	O	I_CLS
+ทาง	NN	O	I_CLS
+สถานี	NN	B_ORG	I_CLS
+วิทยุ	NN	I_ORG	I_CLS
+โทรทัศน์แห่งประเทศไทย	NN	E_ORG	I_CLS
+_	PU	O	I_CLS
+ใน	PS	O	I_CLS
+วันที่	NN	B_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+26	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+มิถุนายน	NN	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+2552	NU	E_DTM	I_CLS
+_	PU	O	I_CLS
+เวลา	NN	B_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+17.30	NU	I_DTM	I_CLS
+-	PU	I_DTM	I_CLS
+19.00	NU	I_DTM	I_CLS
+_	PU	I_DTM	I_CLS
+น.	CL	E_DTM	E_CLS
+
